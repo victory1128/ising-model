@@ -1,5 +1,6 @@
 % character length with respect to temperature T 
 
+
 param.J = 1;
 param.kb = 1;
 param.h = 0;
